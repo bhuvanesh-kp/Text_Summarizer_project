@@ -18,7 +18,7 @@ setuptools.setup(
     description="Text Summarizer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/",
+    url="https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     project_urls={
         "Bug Tracker": "https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
     },
